@@ -1,0 +1,168 @@
+New weight classes added, person who contributed is  : Robbie Lawler
+Current weight classes are :{'Welterweight (170 lbs)', 'Welterweight'}
+
+
+New weight classes added, person who contributed is  : Shinya Aoki
+Current weight classes are :{'Lightweight', 'Featherweight', 'Welterweight (170 lbs)', 'Welterweight'}
+
+
+New weight classes added, person who contributed is  : Matt Lindland
+Current weight classes are :{'Welterweight', 'Welterweight (170 lbs)', 'Featherweight', 'Heavyweight', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Melvin Manhoef
+Current weight classes are :{'Welterweight', 'Welterweight (170 lbs)', 'Featherweight', 'Heavyweight', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Murilo Rua
+Current weight classes are :{'Light heavyweight', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight', 'Heavyweight', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Shannon Wiratchai
+Current weight classes are :{'Light heavyweight', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Kęstutis Smirnovas
+Current weight classes are :{'Light heavyweight', 'Light Heavyweight', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Adam McDonough
+Current weight classes are :{'Light heavyweight', 'Light Heavyweight', 'Welterweight', 'Welterweight (170 lb)', 'Welterweight (170 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Rick Hawn
+Current weight classes are :{'Light heavyweight', 'Light Heavyweight', 'Lightweight (155lb)', 'Welterweight (170lb)', 'Welterweight', 'Welterweight (170 lb)', 'Welterweight (170 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Alexander Hernandez
+Current weight classes are :{'Light heavyweight', 'Light Heavyweight', 'Lightweight (155lb)', 'Welterweight (170lb)', 'Lightweight (155 lbs)', 'Welterweight', 'Welterweight (170 lb)', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Adriano Martins
+Current weight classes are :{'Light heavyweight', 'Light Heavyweight', 'Lightweight (155lb)', 'Welterweight (170lb)', 'Lightweight (155 lbs)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lb)', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Ryan Roberts (mixed martial artist)
+Current weight classes are :{'Light heavyweight', 'Light Heavyweight', 'Lightweight (155lb)', 'Welterweight (170lb)', 'Lightweight (155 lbs)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lb)', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'Bantamweight', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Cory Devela
+Current weight classes are :{'Light heavyweight', 'Light Heavyweight', 'Lightweight (155lb)', 'Welterweight (170lb)', 'Lightweight (155 lbs)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lb)', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Featherweight', 'Lightweight (170 lbs)', 'Heavyweight', 'Featherweight (155 lbs)', 'Bantamweight', 'MMA', 'Lightweight'}
+
+
+New weight classes added, person who contributed is  : Travis Fulton
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Tony Bonello
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Light heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Guy Mezger
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Light heavyweight (205 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Hideo Tokoro
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Light heavyweight (205 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Rumina Sato
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Joe Stevenson
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Wesley Correira
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Ed Ruth
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Wes Sims
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Derrick Lewis
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : LaRue Burley
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Samy Schiavo
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Fábio Mello
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Angelo Sanchez
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Artem Lobov
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Gilbert Burns
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Joe Pearson (fighter)
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Fabiano Scherner
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Tariel Bitsadze
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Hiroaki Yoshioka
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Sergio Pettis
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Garett Whiteley
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Kamen Georgiev
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', '205', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Enrique Barzola
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Featherwweight', 'Bantamwweight', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Heavyweight', '205', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Yuki Shoujou
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Featherwweight', 'Bantamwweight', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Flyweight (56 kg)', 'Heavyweight', '205', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Richie Vaculik
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Flyweight (MMA)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Featherwweight', 'Bantamwweight', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Flyweight (56 kg)', 'Heavyweight', '205', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Jenel Lausa
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Flyweight (MMA)', 'Flyweight (115–125 Ibs)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Heavyweight (265 lb)', 'Featherwweight', 'Bantamwweight', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Flyweight (56 kg)', 'Heavyweight', '205', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Irshaad Sayed
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Flyweight (MMA)', 'Flyweight (115–125 Ibs)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Bantamweight (135lb)', 'Heavyweight (265 lb)', 'Featherwweight', 'Bantamwweight', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Flyweight (56 kg)', 'Heavyweight', '205', 'Bantamweight'}
+
+
+New weight classes added, person who contributed is  : Dejdamrong Sor Amnuaysirichoke
+Current weight classes are :{'Light Heavyweight', 'Lightweight (155lb)', 'Featherweight (145 lb)', 'Light heavyweight (205 lb)', 'Heavyweight (206–265 lb)', 'Flyweight (125 lb)', 'Flyweight (MMA)', 'Flyweight (115–125 Ibs)', 'Light Heavyweight (205 lb)', 'Flyweight (125 lbs)', 'Super heavyweight', 'welterweight', 'Heavyweight (MMA)', 'Welterweight (170 lb)', 'Bantamweight (135 lbs)', 'Featherweight', 'Lightweight (170 lbs)', 'Featherweight (155 lbs)', 'Welterweight (170)', 'MMA', 'Lightweight', 'Welterweight(170 lbs)', 'Bantamweight (135lb)', 'Heavyweight (265 lb)', 'Featherwweight', 'Bantamwweight', 'Bantamweight (135 lb)', 'Flyweight', 'Super Heavyweight', 'Lightweight (MMA)', 'Featherweight (145lb)', 'Lightweight (155 lbs)', 'Strawweight', 'Heavyweight (265 lbs)', 'Light heavyweight', 'Strawweight (125 lbs)', 'Welterweight (170lb)', 'Lightweight (155 lb)', 'Welterweight', '145', 'Welterweight (170 lbs)', 'Featherweight (145 lbs)', 'bantamweight', '170', 'Lightweight ', 'Flyweight (56 kg)', 'Heavyweight', '205', 'Bantamweight'}
+
+

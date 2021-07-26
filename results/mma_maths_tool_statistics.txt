@@ -1,0 +1,17 @@
+time elapsed is = 2616.485156774521
+Checked 2527 number of fighters wikipedia pagesaverage time for a page check is 1.0354116172435777
+number of fighters without a clickable wikipedia page is : 14411
+number of all fighters is : 16814
+Percentage of fighters without a clickable wikipedia page is : 0.8570833828952064
+number of unique fighters by each depth is : 
+
+number of unique fighters by depth 1 is 19
+number of unique fighters by depth 2 is 282
+number of unique fighters by depth 3 is 2362
+number of unique fighters by depth 4 is 9138
+number of unique fighters by depth 5 is 11936
+number of unique fighters by depth 6 is 8906
+number of unique fighters by depth 7 is 3431
+number of unique fighters by depth 8 is 796
+number of unique fighters by depth 9 is 147
+number of unique fighters by depth 10 is 41

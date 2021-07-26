@@ -1,3 +1,6 @@
+
+ikipedia pages are inconsistent with weight class names, sometimes the page will have "Welterweight (MMA)", sometimes it will have 'Welterweight (170 lbs)'
+
 New weight classes added, person who contributed is  : Robbie Lawler
 Current weight classes are :{'Welterweight (170 lbs)', 'Welterweight'}
 
